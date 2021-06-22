@@ -1,0 +1,74 @@
+body{
+             
+               width:100%;
+           
+               
+               
+            }
+            nav{
+               
+                background:lightcyan;
+           
+            }
+            .nav ul li {
+                
+       margin-right: 74px;
+                display: inline-block;
+                color: white;
+                
+            }
+             .nav li a {
+                color:  darkslategrey;
+      
+          margin-right: 174px;
+
+     
+                 
+               text-decoration-line: none;
+            }
+            .SECOND{
+              
+                 background-size: 100% 100%;
+
+ 
+  font-size: 14px;
+            }    
+            .one{
+                display: inline-block;
+                padding: 14px;
+         font-size: 12px;
+         
+                     text-decoration-line: none;
+            }
+         
+               .logo{
+              
+             
+           
+                     text-decoration-line: none;
+            }
+            .btn{
+                background-color: #17ac88;
+             
+                
+                
+            }
+            .video{
+                background-color: white;
+                color:  #17ac88;
+            }
+            .checkbox :hover{
+                background-color: #66afe9; 
+                
+                border: none;
+            }
+            .manage{
+                padding: 19px;
+              
+  
+  background: linear-gradient(to top, #999966 1%, #ffffff 11%);
+                
+            }
+            footer{
+                display: inline-block;
+            }
